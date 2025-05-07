@@ -1,2 +1,2 @@
-# PB-ventas
-Cliente de la Aplicación Ventas desarrollado en PowerBuilder consumiendo Apis de Ventas
+# PB-InitProject
+Desarrollo personal para dejar una fuente base para futuros proyectos
